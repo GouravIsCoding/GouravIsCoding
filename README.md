@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Next Js
 - 💞️ I’m looking to collaborate on projects involving javascript, typescript, node, express, react, Next, postgres ,mongoDb
 - 🚀 Currently a part of 100xdevs cohort 2.0 by Harkirat Singh
-- 📫 Reach me at gourav.thakur.work@gmail.com
 
 
 <!---
